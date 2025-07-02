@@ -7,8 +7,8 @@ This project focuses on cleaning and preprocessing Airbnb listings data using Py
 # 📁 Files Included
 
 ├── Airbnb.ipynb             
-├── raw_data/                
-├── cleaned_data/            
+├── Airbnb_raw_data                
+├── Airbnb_cleaned_data            
 └── README.md                
 
 # ⚙️ Technologies Used
